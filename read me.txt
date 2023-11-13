@@ -1,0 +1,3 @@
+import the data base to my sql 
+step 1.create a table and keep the name as idiscuss
+step2.go to import option and select the my sql file from the zip file and import
